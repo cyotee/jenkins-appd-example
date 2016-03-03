@@ -9,4 +9,4 @@ ruby-runtime:0.12
 scm-api:0.2
 token-macro:1.10
 parameterized-trigger:2.25
-appdynamics-dashboard:1.07
+appdynamics-dashboard:1.0.7
