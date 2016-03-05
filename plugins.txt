@@ -13,3 +13,4 @@ appdynamics-dashboard:1.0.7
 kubernetes:0.5
 openshift-pipeline:1.0.8
 docker-build-step:1.34
+cloudbees-enterprise-plugins:15.05.1
